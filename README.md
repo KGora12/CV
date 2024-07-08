@@ -13,4 +13,3 @@ Hello! I'm **Kacper Góra**, a passionate student currently studying **Cybersecu
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 
-![Profile Picture](path/to/your/profile-picture.jpg)
